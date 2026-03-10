@@ -114,7 +114,7 @@ function Home() {
 
                             <div className="mt-5 flex justify-center items-center text-white font-semibold text-lg text-center items-center gap-6">
                                 <a
-                                    href="https://drive.google.com/file/d/1eohhrq8STy_NxSFnN8OBjXyGrLGHF6Bx/view?usp=drive_link"
+                                    href="/Shreedatri_Saha_Resume_2026.pdf"
                                     target="_blank"        // opens in a new tab
                                     rel="noopener noreferrer"  // 
                                     className="bg-neutral-950 relative flex justify-center items-center p-3 text- text-white z-10 border-b border-2 border-cyan-200 shadow-[0_0_10px_cyan] rounded-lg"
