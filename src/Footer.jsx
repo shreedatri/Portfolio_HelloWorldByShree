@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
     return (
-        <section id="education" className="p-1 bg-neutral-950 rounded-lg text-white border-b border-2 border-cyan-400 shadow-[0_0_20px_cyan]">
+        <section id="footer" className="p-1 bg-neutral-950 rounded-lg text-white border-b border-2 border-cyan-400 shadow-[0_0_20px_cyan]">
             <div className="flex flex-wrap gap-8 justify-center items-center mt-3 mb-3">
 
                 {/* LinkedIn */}

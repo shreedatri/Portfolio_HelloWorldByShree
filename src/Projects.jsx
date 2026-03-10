@@ -24,6 +24,14 @@ function Projects() {
       image: "/Screenshot (142).png",
       repo: "https://github.com/shreedatri/Find_My_Book_Now",
       link: "https://gentle-selkie-39fa59.netlify.app/"
+    },
+    {
+      id:3,
+      name: "✦ Make My Portfolio",
+      description: "It is a portfolio generator that allows users to create personalized portfolios by inputting their details and preferences. The tool generates a visually appealing portfolio based on the provided information, making it easy for users to showcase their skills and projects.It also has multiple themes to choose from and the link of the generated portfolio can be easily used that contains all the necessary files for deployment.",
+      image: "/Screenshot (250).png",
+      repo: "https://github.com/shreedatri/Make_My_Portfolio",
+      link: "https://makemyportfolioweb.netlify.app/"
     }
   ];
 
